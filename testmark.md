@@ -1,7 +1,8 @@
 ---
-Text:1
-Text:2
-Front:Matter
+
+Text: 1
+Text: 2
+Front: Matter
 
 ---
 
