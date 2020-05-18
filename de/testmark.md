@@ -1,6 +1,6 @@
 В чистом Маркдауне нет синтаксиса для таблиц, а в GFM есть.
 
-Erster Header | Zweiter Header
+Erster Header | Zweiter фцывфывHeader
 --- | ---
 Inhaltszelle | Inhaltszelle
 Inhaltszelle | Inhaltszelle
