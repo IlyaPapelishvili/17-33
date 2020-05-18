@@ -1,7 +1,7 @@
 ---
 
-Text: hi
-Front: Matter
+Hello: hi
+John: Matter
 Text: by
 Front: Matter
 
